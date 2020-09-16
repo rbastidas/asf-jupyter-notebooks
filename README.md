@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_ReadAnalyzeSARStack)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_ReadAnalyzeSARStack?filepath=Exercise1-ReadAnalyzeSARStack.ipynb)
 
 # ASF Jupyter Notebooks
 
