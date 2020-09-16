@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_ExploreSARTimeSeriesDeforestation)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_ExploreSARTimeSeriesDeforestation?filepath=Exercise3B-ExploreSARTimeSeriesDeforestation.ipynb)
 
 # ASF Jupyter Notebooks
 __Where python meets fun!!__
@@ -21,7 +21,6 @@ Python Tools
 - matplotlib 3.1.2  https://matplotlib.org/contents.html
 - scipy 1.4.1  https://docs.scipy.org/doc/scipy/reference/
 - pandas 1.0.0  https://pandas.pydata.org/pandas-docs/version/1.0.0/
-- bokeh 1.3.4  https://bokeh.pydata.org/en/latest/
 - gdal 3.0.2  https://www.gdal.org/
 
 SAR Tools
