@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_InSARTimeSeriesGIANTProcessing?filepath=Exercise8B-InSARTimeSeriesGIANTProcessing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_UNAVCOInSAR-Monday-HW2?filepath=UNAVCOInSAR-Monday-HW2.ipynb)
 
 # ASF Jupyter Notebooks
 __Where python meets fun!!__
@@ -18,6 +18,4 @@ The following is a non-exhaustive list of installed commonly used python and non
 Python Tools
 - python 3.7
 - numpy 
-- matplotlib
-- h5py 
-- gdal 
+- matplotlib 
